@@ -1,0 +1,10 @@
+[package]
+name = "reverse_string"
+version = "0.1.0"
+edition = "2024"
+
+[features]
+grapheme = []
+
+[dependencies]
+lingo_lib = "0.2.2"
